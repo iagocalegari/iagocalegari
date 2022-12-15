@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @iagocalegari, Designer and Multimedia Artist.
+- 👀 I’m interested in UX/UI Design and Web3.
+- 🌱 I’m currently learning Web Development.
+- 💞️ I’m looking to collaborate on any projects with my design skills.
+- 📫 How to reach me: iago.calegari@live.com.
