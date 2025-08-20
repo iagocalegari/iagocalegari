@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @iagocalegari, Graphic and Digital Designer + Tech Lover.
-- 👀 I’m interested in Digital Design, Web Development, AI and Creative Technology.
-- 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate on any projects with my design and art skills.
+- 👋 Hi, I’m @iagocalegari, Designer + Tech Lover and Dev in progress.
+- 👀 I’m interested in Web3, AI, AR/VR and Creative Technology.
+- 🌱 I’m currently learning Web3 Development.
+- 💞️ I’m looking to collaborate on any projects with my skills.
 - 📫 How to reach me: iago.calegari@live.com.
