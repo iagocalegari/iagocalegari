@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @iagocalegari, Designer + Tech Lover and Dev in progress.
+- 👋 Hi, I’m @iagocalegari, Designer + Tech Lover and Creative Technologist in progress.
 - 👀 I’m interested in Web3, AI, AR/VR and Creative Technology.
-- 🌱 I’m currently learning Web3 Development.
-- 💞️ I’m looking to collaborate on any projects with my skills.
 - 📫 How to reach me: iago.calegari@live.com.
